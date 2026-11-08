@@ -1,15 +1,6 @@
 {
   "versions": [
     {
-      "date": "2026-11-09",
-      "file": "tkb/2026-11-09.json",
-      "label": "LẦN 5",
-      "note": "Điều chỉnh tuần 10",
-      "source": "TKB_2026_2027_V41_TONG_HOP.xlsx",
-      "uploaded": "2026-11-08T03:32:05.511Z",
-      "xlsx": "xlsx/2026-11-09.xlsx"
-    },
-    {
       "date": "2026-10-05",
       "file": "tkb/2026-10-05.json",
       "label": "LẦN 3",
