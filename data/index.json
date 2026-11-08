@@ -16,6 +16,15 @@
       "note": "Bản V29",
       "source": "tkb.xlsx",
       "uploaded": "2026-10-17T07:39:05.310Z"
+    },
+    {
+      "date": "2026-09-11",
+      "file": "tkb/2026-09-11.json",
+      "label": "LẦN 5",
+      "note": "Thời khóa biểu tuần 10",
+      "source": "TKB_2026_2027_V37_DOI_10V2.xlsx",
+      "uploaded": "2026-11-08T02:32:14.112Z",
+      "xlsx": "xlsx/2026-09-11.xlsx"
     }
   ]
 }
