@@ -1,15 +1,6 @@
 {
   "versions": [
     {
-      "date": "2026-10-19",
-      "file": "tkb/2026-10-19.json",
-      "label": "LẦN 5",
-      "note": "Bản V36 – tuần 7 (thêm 2 tiết Lý thầy Mẫn lớp 11 Lý, T2 tiết 4–5)",
-      "source": "TKB2026_2027_BanChot_V36_Tuan7.xlsx",
-      "uploaded": "2026-10-17T18:13:25.443Z",
-      "xlsx": "xlsx/2026-10-19.xlsx"
-    },
-    {
       "date": "2026-10-05",
       "file": "tkb/2026-10-05.json",
       "label": "LẦN 3",
