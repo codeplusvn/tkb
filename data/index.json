@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "date": "2026-11-16",
+      "file": "tkb/2026-11-16.json",
+      "label": "LẦN 7",
+      "note": "TKB Tuần 11 (V46: GDĐP khối 11 đổi GV, PCCM Tin mới)",
+      "source": "TKB_2026_2027_V46_TUAN11.xlsx",
+      "uploaded": "2026-11-14T03:23:34.265Z"
+    },
+    {
       "date": "2026-11-09",
       "file": "tkb/2026-11-09.json",
       "label": "LẦN 6",
